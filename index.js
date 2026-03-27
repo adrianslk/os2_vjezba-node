@@ -1,1 +1,10 @@
-console.log("Dobar dan, Adrian!")
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
+Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian Adrian
