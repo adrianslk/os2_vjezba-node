@@ -1,0 +1,19 @@
+{
+  "name": "os2_vjezba-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianslk/os2_vjezba-node.git"
+  },
+  "author": "Adrian Slokovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianslk/os2_vjezba-node/issues"
+  },
+  "homepage": "https://github.com/adrianslk/os2_vjezba-node#readme"
+}
