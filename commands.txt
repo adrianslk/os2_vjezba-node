@@ -1,0 +1,53 @@
+git clone https://github.com/adrianslk/os2_vjezba-node.git
+ls
+cd os2_vjezba-node/
+echo 'console.log("Hello, Adrian!");' > index.js 
+ls
+git status
+git add index.js 
+git commit -m 'Dodana index.js datoteka'
+git log
+git push
+cd ..
+mkdir os2_vjezba2
+cd os2_vjezba2/
+git clone https://github.com/adrianslk/os2_vjezba-node.git
+cd os2_vjezba-node/
+echo 'console.log("Dobar dan, Adrian!")' > index.js 
+cat index.js 
+git add index.js 
+git status
+git commit -m 'Promijenjena index.js datoteka'
+git push
+node -v
+npm -v
+npm init
+ls
+cat package.json 
+node index.js 
+git status
+git add package.json 
+git commit -m 'Dodana package.json datoteka'
+git push
+cd ..
+cd ..
+cd os2_vjezba-node/
+git pull
+ls
+npm install
+cat index.js  
+git status
+git add index.js 
+git add package-lock.json 
+git commit -m 'Promijenjena index.js datoteka na Github-u'
+git push
+git log
+cd ..
+cd os2_vjezba-node/
+ls
+git pull
+git log
+git checkout 4029f336dec7796d37e60565caf0db950f954823
+cat index.js 
+cd ..
+history > commands.txt
